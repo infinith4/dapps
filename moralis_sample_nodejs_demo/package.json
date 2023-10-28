@@ -1,0 +1,16 @@
+{
+  "name": "moralis_sample_nodejs_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@moralisweb3/common-evm-utils": "^2.23.1",
+    "express": "^4.18.2",
+    "moralis": "^2.23.1"
+  }
+}
